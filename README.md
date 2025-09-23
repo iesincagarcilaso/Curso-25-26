@@ -22,7 +22,7 @@
 - [Mejías Barragán, Aitana](https://github.com/aitanamb12) :octocat: `aitanamb12`
 - [Romero Cantillo, Alba](https://github.com/alba-romero) :octocat: `alba-romero`
 - [Ruz Panadero, Juan Antonio](https://github.com/juananruz) :octocat: `juananruz`
-- [Salido Marqués, Alejandro](https://github.com/alejandro2207) :octocat: `alejandro2207`
+- [Salido Marqués, Alejandro](https://github.com/alejandro22007) :octocat: `alejandro22007`
 
 
 ### 2º DAW
