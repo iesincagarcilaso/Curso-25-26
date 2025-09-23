@@ -13,8 +13,8 @@
 - [Fernández Reina, Álvaro](https://github.com/pestanyas) :octocat: `pestanyas`
 - [Fuentes Soriano, José](https://github.com/jfuesor) :octocat: `jfuesor`
 - [Gálvez Espejo, Víctor](https://github.com/victorge06) :octocat: `victorge06`
-- [Gómez Contreras, José](https://github.com/cidjumpez) :octocat: `cidjumpez`
-- [Henares León, Carolina](https://github.com/nuoframework) :octocat: `nuoframework`
+- [Gómez Contreras, José](https://github.com/) :octocat: ``
+- [Henares León, Carolina](https://github.com/) :octocat: ``
 - [Ibáñez Jurado, Alejandro](https://github.com/alexij1651) :octocat: `alexij1651`
 - [Jiménez Luque, Samuel](https://github.com/samujl06) :octocat: `samujl06`
 - [López López, Alejandro](https://github.com/aleexlopez) :octocat: `aleexlopez`
@@ -22,7 +22,7 @@
 - [Mejías Barragán, Aitana](https://github.com/aitanamb12) :octocat: `aitanamb12`
 - [Romero Cantillo, Alba](https://github.com/alba-romero) :octocat: `alba-romero`
 - [Ruz Panadero, Juan Antonio](https://github.com/juananruz) :octocat: `juananruz`
-- [Salido Marqués, Alejandro](https://github.com/nuoframework) :octocat: `nuoframework`
+- [Salido Marqués, Alejandro](https://github.com/alejandro2207) :octocat: `alejandro2207`
 
 
 ### 2º DAW
