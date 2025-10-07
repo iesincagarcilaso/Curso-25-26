@@ -9,11 +9,14 @@
 - [Baños Luque, Eduardo](https://github.com/eduardobanosluque) :octocat: `eduardobanosluque`
 - [Bonet Fernández, Manuel](https://github.com/manuelbonet887) :octocat: `manuelbonet887`
 - [Carrasco Castellano, Alejandro](https://github.com/) :octocat: ``
+- [Egea Jiménez, David](https://github.com/davidegeajimenez) :octocat: `davidegeajimenez  `
 - [Fernández Luque, Rafael Emilio](https://github.com/rferluq) :octocat: `rferluq`
 - [Fernández Reina, Álvaro](https://github.com/pestanyas) :octocat: `pestanyas`
 - [Fuentes Soriano, José](https://github.com/jfuesor) :octocat: `jfuesor`
 - [Gálvez Espejo, Víctor](https://github.com/victorge06) :octocat: `victorge06`
-- [Gómez Contreras, José](https://github.com/) :octocat: ``
+- [Gómez Contreras, José](https://github.com/cidjumper) :octocat: `cidjumper`
+- [Gutiérrez Onieva, Sergio](https://github.com/sgutoni) :octocat: `sgutoni`
+- [Haro Luna, Azahara María](https://github.com/haroluna999-netizen) :octocat: `haroluna999-netizen`
 - [Henares León, Carolina](https://github.com/) :octocat: ``
 - [Ibáñez Jurado, Alejandro](https://github.com/alexij1651) :octocat: `alexij1651`
 - [Jiménez Luque, Samuel](https://github.com/samujl06) :octocat: `samujl06`
