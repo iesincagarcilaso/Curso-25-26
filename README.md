@@ -31,16 +31,17 @@
 ### 2º DAW
 
 - [Arrabal Espinosa, Pablo](https://github.com/nuoframework) :octocat: `nuoframework`
+- [Cabello Fernández, Tomás](https://github.com/tomascabfer4) :octocat: `tomascabfer4`
 - [Clavero Sánchez, Carlos](https://github.com/CarlosCS06) :octocat: `CarlosCS06`
-- [Carrasco López, Adrián](https://github.com/LightOracle67) :octocat: `LightOracle67`
+- [De la Torre Fanea, Rafael](https://github.com/faaneoo) :octocat: `faaneoo`
 - [Delgado Ruz, Adrián](https://github.com/FiksaKoud) :octocat: `FiksaKoud`
+- [Espejo Rosal, Rafael](https://github.com/naptime4u) :octocat: `naptime4u`
 - [García Cárdenas, Juan](https://github.com/JGC998) :octocat: `JGC998`
 - [Gómez Luque-Romero, Francisco](https://github.com/PacoGomezLR) :octocat: `PacoGomezLR`
 - [Jiménez Olmo, María Teresa](https://github.com/divinegarden) :octocat: `divinegarden`
 - [Jiménez Polonio, Antonio Jesús](https://github.com/TonaJzp) :octocat: `TonaJzp`
-- [Madrid Pérez, Jesús](https://github.com/JesusMadridPerez) :octocat: `JesusMadridPerez`
-- [Martínez Montaño, Manuel](https://github.com/Akalo06) :octocat: `Akalo06`
 - [Mihai, Alexandru Mihai](https://github.com/alexxmihai24) :octocat: `alexxmihai24`
+- [Palma López, José](https://github.com/dawPalma) :octocat: `dawPalma`
 - [Requena Bujalance, Carlos](https://github.com/Solrak25) :octocat: `Solrak25`
 - [Reyes Pedraza, Alfonso](https://github.com/alfonso964) :octocat: `alfonso964`
 - [Tejero Cañero, Joaquin](https://github.com/joaquintejero92) :octocat: `joaquintejero92`
@@ -48,4 +49,8 @@
 
 
 
+### 2º DAM
+
+- [Madrid Pérez, Jesús](https://github.com/JesusMadridPerez) :octocat: `JesusMadridPerez`
+- [Martínez Montaño, Manuel](https://github.com/Akalo06) :octocat: `Akalo06`
 
