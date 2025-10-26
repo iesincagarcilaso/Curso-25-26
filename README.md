@@ -42,7 +42,6 @@
 - [Jiménez Polonio, Antonio Jesús](https://github.com/TonaJzp) :octocat: `TonaJzp`
 - [Mihai, Alexandru Mihai](https://github.com/alexxmihai24) :octocat: `alexxmihai24`
 - [Palma López, José](https://github.com/dawPalma) :octocat: `dawPalma`
-- [Requena Bujalance, Carlos](https://github.com/Solrak25) :octocat: `Solrak25`
 - [Reyes Pedraza, Alfonso](https://github.com/alfonso964) :octocat: `alfonso964`
 - [Tejero Cañero, Joaquin](https://github.com/joaquintejero92) :octocat: `joaquintejero92`
 - [Vergillos Ruiz, Alfredo](https://github.com/4lwep) :octocat: `4lwep`
