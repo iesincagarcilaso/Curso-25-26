@@ -55,3 +55,4 @@
 - [Madrid Pérez, Jesús](https://github.com/JesusMadridPerez) :octocat: `JesusMadridPerez`
 - [Martínez Montaño, Manuel](https://github.com/Akalo06) :octocat: `Akalo06`
 - [Paniagua Soto, Manuel](https://github.com/paniSoto) :octocat: `paniSoto`
+- [Requena Bujalance, Carlos](https://github.com/Solrak25) :octocat: `Solrak25`
