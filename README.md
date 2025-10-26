@@ -51,6 +51,7 @@
 
 ### 2º DAM
 
+- [Cabeza Reinoso, José](https://github.com/jply-xyz) :octocat: `jply-xyz`
 - [Madrid Pérez, Jesús](https://github.com/JesusMadridPerez) :octocat: `JesusMadridPerez`
 - [Martínez Montaño, Manuel](https://github.com/Akalo06) :octocat: `Akalo06`
-
+- [Paniagua Soto, Manuel](https://github.com/paniSoto) :octocat: `paniSoto`
