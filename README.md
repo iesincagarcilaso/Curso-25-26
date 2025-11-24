@@ -33,7 +33,7 @@
 - [Arrabal Espinosa, Pablo](https://github.com/nuoframework) :octocat: `nuoframework`
 - [Cabello Fernández, Tomás](https://github.com/tomascabfer4) :octocat: `tomascabfer4`
 - [Clavero Sánchez, Carlos](https://github.com/CarlosCS06) :octocat: `CarlosCS06`
-- [De la Torre Fanea, Rafael](https://github.com/faaneoo) :octocat: `faaneoo`
+- [De la Torre Fanea, Rafael](https://github.com/faneooix) :octocat: `faneooix`
 - [Delgado Ruz, Adrián](https://github.com/FiksaKoud) :octocat: `FiksaKoud`
 - [Espejo Rosal, Rafael](https://github.com/naptime4u) :octocat: `naptime4u`
 - [García Cárdenas, Juan](https://github.com/JGC998) :octocat: `JGC998`
